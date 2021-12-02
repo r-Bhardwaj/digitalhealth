@@ -1,0 +1,15 @@
+.therapistHome{
+    
+height: 100vh;
+background-color: grey;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* height: 100vh; */
+
+}
+.patientElement{
+  margin: 20px;
+}
